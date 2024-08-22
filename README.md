@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://github.com/Nupurpusha/Build-Your-Own-wc-Tool/raw/main/Hello!!%20(online-video-cutter.com).mp4">
+  <a href="https://github.com/Nupurpusha/Build-Your-Own-wc-Tool/raw/main/Hello!!%20(online-video-cutter.com).mp4">
+    <img src="https://github.com/Nupurpusha/Build-Your-Own-wc-Tool/raw/main/thumbnail.jpg" alt="Watch the video" />
+  </a>
 </p>
+
 
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
