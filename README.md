@@ -1,8 +1,5 @@
-<p align="center">
-  <a href="https://github.com/Nupurpusha/Build-Your-Own-wc-Tool/raw/main/Hello!!%20(online-video-cutter.com).mp4">
-    <img src="https://github.com/Nupurpusha/Build-Your-Own-wc-Tool/raw/main/thumbnail.jpg" alt="Watch the video" />
-  </a>
-</p>
+![image](https://github.com/user-attachments/assets/7f539e90-bd8b-408a-a814-94a67dd3db6a)
+
 
 
 
