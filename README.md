@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nupurpusha/Build-Your-Own-wc-Tool/blob/main/nupur2.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/Nupurpusha/Build-Your-Own-wc-Tool/blob/main/nupur2.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️" style="width: 300px; height: auto;">
 </p>
 
 
