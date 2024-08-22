@@ -1,4 +1,6 @@
-https://s3.ezgif.com/tmp/ezgif-3-4a554bbf72.gif
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 
 
 
