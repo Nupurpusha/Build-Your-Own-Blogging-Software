@@ -1,8 +1,6 @@
-## Animation Video
-
-Here is an animation video demonstrating the feature:
-
-[![Watch the video](https://github.com/Nupurpusha/Build-Your-Own-wc-Tool/raw/main/thumbnail.jpg)](https://github.com/Nupurpusha/Build-Your-Own-wc-Tool/raw/main/Hello!!%20(online-video-cutter.com).mp4)
+<p align="center">
+  <img src="https://github.com/Nupurpusha/Build-Your-Own-wc-Tool/raw/main/Hello!!%20(online-video-cutter.com).mp4">
+</p>
 
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
