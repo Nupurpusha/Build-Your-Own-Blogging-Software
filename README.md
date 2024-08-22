@@ -2,10 +2,10 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
 
+---
+
 ## Overview
 ![Blogging Software Demo](https://link-to-your-gif.com/demo.gif)
-## Overview
-
 **Build Your Own Blogging Software** is a hands-on coding challenge designed to guide you through the process of building a simple yet functional blogging platform from scratch. The project will help you learn the essentials of web development by creating a blog where you can write, edit, and manage posts, and where readers can engage with your content through comments.
 
 ### Why Build a Blog?
@@ -37,19 +37,31 @@ By the end of this challenge, you'll have a fully functional blog that you can c
 ## Getting Started
 ![Getting Started](https://link-to-your-gif.com/getting-started.gif)
 
+---
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+---
 
 ## Installation
 ![Installation](https://link-to-your-gif.com/installation.gif)
 
+---
+
 ## Usage
 ![Usage Demo](https://link-to-your-gif.com/usage.gif)
+
+---
 
 ## Contributing
 ![Contribute](https://forthebadge.com/images/badges/built-with-love.svg)
 
+---
+
 ## License
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+---
 
 
