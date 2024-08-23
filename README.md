@@ -41,6 +41,47 @@ By the end of this challenge, you'll have a fully functional blog that you can c
 ## Getting Started
 ![Getting Started](https://link-to-your-gif.com/getting-started.gif)
 
+
+## Technologies Used
+
+<p align="center">
+  <!-- Python Badge -->
+  <img src="https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 10px;" width="100" height="100">
+  
+  <!-- Flask Badge -->
+  <img src="https://img.shields.io/badge/Flask-1.1.2-black?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="margin: 10px;" width="100" height="100">
+  
+  <!-- Django Badge -->
+  <img src="https://img.shields.io/badge/Django-3.0-green?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="margin: 10px;" width="100" height="100">
+  
+  <!-- HTML5 Badge -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin: 10px;" width="100" height="100">
+  
+  <!-- CSS3 Badge -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 10px;" width="100" height="100">
+  
+  <!-- JavaScript Badge -->
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" style="margin: 10px;" width="100" height="100">
+  
+  <!-- SQL Badge -->
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" style="margin: 10px;" width="100" height="100">
+</p>
+
+### 3. **Animated SVG Icon Example**
+
+If you want to add more animations using SVG or CSS, you can create custom animated SVG icons or use CSS animations. Here is a basic example:
+
+```html
+<!-- Animated SVG Badge Example -->
+<p align="center">
+  <svg height="100" width="100">
+    <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="blue">
+      <animate attributeName="r" from="40" to="45" dur="0.5s" begin="0s" repeatCount="indefinite" />
+    </circle>
+  </svg>
+</p>
+
+
 ---
 
 ## GitHub Stats
