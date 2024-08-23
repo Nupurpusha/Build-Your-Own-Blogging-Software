@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nupurpusha/Build-Your-Own-wc-Tool/blob/main/Untitled%20design%20(1).gif " alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️" style="width: 1000px; height: 350px;">
+  <img src="https://github.com/Nupurpusha/Build-Your-Own-wc-Tool/blob/main/Untitled%20design%20(1).gif " alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️" style="width: 1000px; height: 300px;">
 </p>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lugtu@thapar.edu)
