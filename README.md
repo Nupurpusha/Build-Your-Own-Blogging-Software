@@ -12,6 +12,16 @@
 ![Blogging Software Demo](https://link-to-your-gif.com/demo.gif)
 **Build Your Own Blogging Software** is a hands-on coding challenge designed to guide you through the process of building a simple yet functional blogging platform from scratch. The project will help you learn the essentials of web development by creating a blog where you can write, edit, and manage posts, and where readers can engage with your content through comments.
 
+## Table of Contents
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Technologies Used](#technologies-used)
+- [Code Architecture](#code-architecture)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+
 ### Why Build a Blog?    
 
 Blogs have been a cornerstone of the internet since the early 2000s, transforming static web pages into dynamic platforms for sharing ideas, tutorials, and personal stories. By building your own blogging software, you will:
