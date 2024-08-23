@@ -9,7 +9,6 @@
 ---
 
 ## Overview
-![Blogging Software Demo](https://link-to-your-gif.com/demo.gif)
 **Build Your Own Blogging Software** is a hands-on coding challenge designed to guide you through the process of building a simple yet functional blogging platform from scratch. The project will help you learn the essentials of web development by creating a blog where you can write, edit, and manage posts, and where readers can engage with your content through comments.
 
 ---
@@ -36,7 +35,7 @@ Blogs have been a cornerstone of the internet since the early 2000s, transformin
 
 ----
 ## Getting Started
-![Getting Started](https://link-to-your-gif.com/getting-started.gif)
+<div style="width:100%;height:0;padding-bottom:96%;position:relative;"><iframe src="https://giphy.com/embed/SsfTQRyxafkzmIB4qd" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/squarelovin-hh-transparent-SsfTQRyxafkzmIB4qd">via GIPHY</a></p>
 Follow these instructions to set up your development environment and get the project running on your local machine.
 
 ### Prerequisites
