@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/Nupurpusha/Build-Your-Own-wc-Tool/blob/main/Untitled%20design%20(1).gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️" style="width: 900px; height: 300px;">
+  <img src="https://github.com/user-attachments/assets/a6f67f02-3a42-4c40-ae66-d8ee0267ac0d" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️" style="width: 900px; height: 300px;">
 </p>
-
 
 
 
