@@ -13,7 +13,7 @@
 **Build Your Own Blogging Software** is a hands-on coding challenge designed to guide you through the process of building a simple yet functional blogging platform from scratch. The project will help you learn the essentials of web development by creating a blog where you can write, edit, and manage posts, and where readers can engage with your content through comments.
 
 ## Table of Contents
-- [Why Build a Blog?](#Why Build a Blog?)
+- [Why Build a Blog?](#Why-Build-a-Blog?)
 - [Getting Started](#getting-started)
 - [Technologies Used](#technologies-used)
 - [Code Architecture](#code-architecture)
