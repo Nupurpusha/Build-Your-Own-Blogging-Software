@@ -67,19 +67,7 @@ By the end of this challenge, you'll have a fully functional blog that you can c
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" style="margin: 10px;" width="100" height="50">
 </p>
 
-### 3. **Animated SVG Icon Example**
 
-If you want to add more animations using SVG or CSS, you can create custom animated SVG icons or use CSS animations. Here is a basic example:
-
-```html
- Animated SVG Badge Example
-<p align="center">
-  <svg height="100" width="100">
-    <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="blue">
-      <animate attributeName="r" from="40" to="45" dur="0.5s" begin="0s" repeatCount="indefinite" />
-    </circle>
-  </svg>
-</p>
 
 
 ---
