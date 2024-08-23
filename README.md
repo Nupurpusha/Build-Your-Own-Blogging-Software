@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nupurpusha/Build-Your-Own-wc-Tool/blob/main/Untitled%20design%20(1).gif " alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️" style="width: 1000px; height: 340px;">
+  <img src="https://github.com/Nupurpusha/Build-Your-Own-wc-Tool/blob/main/Untitled%20design%20(1).gif " alt="Hi 👋, Open Source Project By Linux User Group,TIET 🚀 Build Your Own Blogging Platform 🚀 All The Best❤️" style="width: 1000px; height: 340px;">
 </p>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lugtu@thapar.edu)
@@ -12,6 +12,8 @@
 ![Blogging Software Demo](https://link-to-your-gif.com/demo.gif)
 **Build Your Own Blogging Software** is a hands-on coding challenge designed to guide you through the process of building a simple yet functional blogging platform from scratch. The project will help you learn the essentials of web development by creating a blog where you can write, edit, and manage posts, and where readers can engage with your content through comments.
 
+---
+
 ## Table of Contents
 - [Why Build a Blog?](#Why-Build-a-Blog?)
 - [Getting Started](#getting-started)
@@ -21,6 +23,7 @@
 - [License](#license)
 - [Contact](#contact)
 
+---
 
 ## Why Build a Blog?    
 
@@ -66,11 +69,11 @@ Ensure you have the following installed:
     bash```
     Activate the virtual environment:
   - **For Windows:**
-  - 
+   
      ```bash
      venv\Scripts\activate
   - **For macOS and Linux:**
-  - 
+   
     ```bash
     source venv/bin/activate
 4. **Install Dependencies**
@@ -89,12 +92,8 @@ Ensure you have the following installed:
    python manage.py runserver
    bash```
 Open your web browser and navigate to http://localhost:5000 to view your blogging platform.
-     
-
-
-
-
-
+    
+---
 ## Technologies Used
 
 <p align="center">
@@ -119,14 +118,6 @@ Open your web browser and navigate to http://localhost:5000 to view your bloggin
   <!-- SQL Badge -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" style="margin: 10px;" width="100" height="50">
 </p>
-
-
-
-
----
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 ---
 
