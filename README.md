@@ -121,11 +121,6 @@ Open your web browser and navigate to http://localhost:5000 to view your bloggin
 
 ---
 
-## Installation
-![Installation](https://link-to-your-gif.com/installation.gif)
-
----
-
 ## Usage
 ![Usage Demo](https://link-to-your-gif.com/usage.gif)
 
