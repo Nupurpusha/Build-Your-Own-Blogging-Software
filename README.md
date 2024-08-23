@@ -122,7 +122,57 @@ Open your web browser and navigate to http://localhost:5000 to view your bloggin
 ---
 
 ## Usage
-![Usage Demo](https://link-to-your-gif.com/usage.gif)
+Follow these steps to effectively use the blogging platform for creating, managing, and interacting with blog posts.
+
+### 1. Creating a New Blog Post
+
+1. Navigate to the **Create Your Blog** section (`/editor`).
+2. Log in with your credentials or create a new account.
+3. Click **Create New Post** and fill in the **Title**, **Summary**, and **Content** fields.
+4. Format your post using **Markdown** for enhanced styling.
+5. Click **Save** to publish immediately or **Draft** to save for later.
+
+![image](https://github.com/user-attachments/assets/558260db-87a2-4847-986f-480bbde694a8)
+
+
+### 2. Editing a Blog Post
+
+1. Access the **Editor** section.
+2. Select the post to edit from the list.
+3. Update the **Title**, **Summary**, or **Content** as needed.
+4. Optionally, update the **Publish Date** or schedule for a future time.
+5. Click **Update** to save changes.
+
+### 3. Managing Comments
+
+- Go to the desired post and navigate to the **Comments** section.
+- View, approve, or delete comments directly.
+
+### 4. Unique Features
+
+- **Live Markdown Preview**: Instantly see the formatted version of your post while typing.
+  
+  ![Markdown Preview](https://github.com/yourusername/blogging-software/blob/main/docs/images/markdown-preview.gif)
+
+- **Post Scheduling**: Plan and schedule posts for future publishing dates.
+
+- **RSS Feed Support**: Automatically generates RSS feeds for readers to subscribe to updates.
+
+- **Customizable Templates**: Edit HTML, CSS, and JavaScript directly from the **Editor** section to personalize your blog’s look and feel.
+
+### 5. Advanced Usage
+
+- **Database Flexibility**: Supports both **SQLite** and **PostgreSQL/MySQL**. Adjust configurations in the `.env` file.
+- **Deployment**: Follow the [Deployment Guide](https://github.com/yourusername/blogging-software/wiki/Deployment) for instructions on deploying to a production environment using **Docker**.
+
+### 6. Contributing
+
+We welcome contributions! Please [open an issue](https://github.com/yourusername/blogging-software/issues) or submit a pull request with improvements or new features.
+
+---
+
+Explore these features to get the most out of your blogging platform and make your blog stand out!
+
 
 ---
 
