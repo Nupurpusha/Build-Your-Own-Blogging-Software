@@ -59,6 +59,24 @@ Ensure you have the following installed:
 
     ```bash
     cd Build-Your-Own-Blogging-Software
+3. **Create a Virtual Environment**(Optional but recommended)
+
+    ```bash
+    python -m venv venv
+    bash```
+    Activate the virtual environment:
+  - **For Windows:**
+     ```bash
+     venv\Scripts\activate
+  - **For macOS and Linux:**
+    ```bash
+    source venv/bin/activate
+
+
+
+    
+4. **
+
 
 
 
