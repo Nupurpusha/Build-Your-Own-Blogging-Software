@@ -22,7 +22,7 @@
 - [Contact](#contact)
 
 
-### Why Build a Blog?    
+## Why Build a Blog?    
 
 Blogs have been a cornerstone of the internet since the early 2000s, transforming static web pages into dynamic platforms for sharing ideas, tutorials, and personal stories. By building your own blogging software, you will:
 
