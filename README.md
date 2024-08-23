@@ -8,7 +8,7 @@
 
 ---
 
-## Overview
+## 📝Overview
 **Build Your Own Blogging Software** is a hands-on coding challenge designed to guide you through the process of building a simple yet functional blogging platform from scratch. The project will help you learn the essentials of web development by creating a blog where you can write, edit, and manage posts, and where readers can engage with your content through comments.
 
 ---
@@ -22,7 +22,7 @@
 
 ---
 
-## Why Build a Blog?    
+## 🌟 Why Build a Blog?    
 
 Blogs have been a cornerstone of the internet since the early 2000s, transforming static web pages into dynamic platforms for sharing ideas, tutorials, and personal stories. By building your own blogging software, you will:
 
@@ -34,7 +34,7 @@ Blogs have been a cornerstone of the internet since the early 2000s, transformin
 
 
 ----
-## Getting Started  
+## 💻Getting Started  
 <p><img src="https://github.com/Nupurpusha/Build-Your-Own-Blogging-Software/blob/main/giphy.webp" style="width: 100px; height: 50px;">
 </p>
 
@@ -94,7 +94,7 @@ Ensure you have the following installed:
 Open your web browser and navigate to http://localhost:5000 to view your blogging platform.
     
 ---
-## Technologies Used
+## 👨‍💻Technologies Used
 
 <p align="center">
   <!-- Python Badge -->
@@ -122,26 +122,15 @@ Open your web browser and navigate to http://localhost:5000 to view your bloggin
 ---
 
 
-## Contributing
+## 🤝Contributing
 
 We welcome contributions! Please [open an issue](https://github.com/Nupurpusha/Build-Your-Own-Blogging-Software/issues) or submit a pull request with improvements or new features.
 
 ![Contribute](https://forthebadge.com/images/badges/built-with-love.svg)
 
 ---
-## GitHub Stats
-<p align="center">
-  ![GitHub stars](https://img.shields.io/github/stars/Nupurpusha/Build-Your-Own-Blogging-Software?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/Nupurpusha/Build-Your-Own-Blogging-Software?style=social)
-  ![GitHub issues](https://img.shields.io/github/issues/Nupurpusha/Build-Your-Own-Blogging-Software)
-  ![GitHub pull requests](https://img.shields.io/github/issues-pr/Nupurpusha/Build-Your-Own-Blogging-Software)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/Nupurpusha/Build-Your-Own-Blogging-Software)
-</p>
 
-
----
-
-## License
+## 📜License
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/Nupurpusha/Build-Your-Own-Blogging-Software/issues/blob/main/LICENSE) file for more details.
