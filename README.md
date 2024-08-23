@@ -35,7 +35,7 @@ Blogs have been a cornerstone of the internet since the early 2000s, transformin
 
 ----
 ## Getting Started
-<div style="width:100%;height:0;padding-bottom:96%;position:relative;"><iframe src="https://giphy.com/embed/SsfTQRyxafkzmIB4qd" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/squarelovin-hh-transparent-SsfTQRyxafkzmIB4qd">via GIPHY</a></p>
+
 Follow these instructions to set up your development environment and get the project running on your local machine.
 
 ### Prerequisites
