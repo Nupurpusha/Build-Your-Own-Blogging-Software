@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Nupurpusha/Build-Your-Own-Blogging-Software/blob/main/Intro.gif" alt="Hi 👋, Open Source Project By Linux User Group,TIET 🚀 Build Your Own Blogging Platform 🚀 All The Best❤️" style="width: 1000px; height: 340px;">
+  <img src="https://github.com/Nupurpusha/Build-Your-Own-Blogging-Software/raw/main/Intro.gif" alt="Hi 👋, Open Source Project By Linux User Group,TIET 🚀 Build Your Own Blogging Platform 🚀 All The Best❤️" style="width: 1000px; height: 340px;">
 </p>
+
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lugtu@thapar.edu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lugtiet/)
