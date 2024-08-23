@@ -121,11 +121,18 @@ Open your web browser and navigate to http://localhost:5000 to view your bloggin
 
 ---
 
+
 ## Contributing
 
 We welcome contributions! Please [open an issue](https://github.com/Nupurpusha/Build-Your-Own-Blogging-Software/issues) or submit a pull request with improvements or new features.
 
 ![Contribute](https://forthebadge.com/images/badges/built-with-love.svg)
+
+---
+## GitHub Stats
+
+![GitHub stars](https://img.shields.io/github/stars/Nupurpusha/Build-Your-Own-Blogging-Software?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Nupurpusha/Build-Your-Own-Blogging-Software?style=social)
 
 ---
 
