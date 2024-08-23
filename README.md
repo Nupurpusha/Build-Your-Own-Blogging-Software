@@ -18,10 +18,8 @@
 - [Why Build a Blog?](#Why-Build-a-Blog?)
 - [Getting Started](#getting-started)
 - [Technologies Used](#technologies-used)
-- [Code Architecture](#code-architecture)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ---
 
@@ -121,7 +119,7 @@ Open your web browser and navigate to http://localhost:5000 to view your bloggin
 
 ---
 
-## 6. Contributing
+## Contributing
 
 We welcome contributions! Please [open an issue](https://github.com/Nupurpusha/Build-Your-Own-Blogging-Software/issues) or submit a pull request with improvements or new features.
 
@@ -129,7 +127,7 @@ We welcome contributions! Please [open an issue](https://github.com/Nupurpusha/B
 
 ---
 
-## 7.License
+## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/Nupurpusha/Build-Your-Own-Blogging-Software/issues/blob/main/LICENSE) file for more details.
