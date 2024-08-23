@@ -14,7 +14,7 @@
 ---
 
 ## Table of Contents
-- [Why Build a Blog?](#Why-Build-a-Blog?)
+- [Why Build a Blog?](#why-build-a-blog)
 - [Getting Started](#getting-started)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
