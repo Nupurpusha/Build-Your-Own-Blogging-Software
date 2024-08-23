@@ -131,8 +131,17 @@ We welcome contributions! Please [open an issue](https://github.com/Nupurpusha/B
 ---
 ## GitHub Stats
 
-![GitHub stars](https://img.shields.io/github/stars/Nupurpusha/Build-Your-Own-Blogging-Software?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Nupurpusha/Build-Your-Own-Blogging-Software?style=social)
+## GitHub Stats
+
+<p align="center">
+  ![GitHub stars](https://img.shields.io/github/stars/Nupurpusha/Build-Your-Own-Blogging-Software?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/Nupurpusha/Build-Your-Own-Blogging-Software?style=social)
+  ![GitHub issues](https://img.shields.io/github/issues/Nupurpusha/Build-Your-Own-Blogging-Software)
+  ![GitHub pull requests](https://img.shields.io/github/issues-pr/Nupurpusha/Build-Your-Own-Blogging-Software)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/Nupurpusha/Build-Your-Own-Blogging-Software)
+ 
+</p>
+
 
 ---
 
