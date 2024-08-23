@@ -37,7 +37,7 @@ Blogs have been a cornerstone of the internet since the early 2000s, transformin
 ## Getting Started
 
 Follow these instructions to set up your development environment and get the project running on your local machine. <p>
-  <img src="https://github.com/Nupurpusha/Build-Your-Own-Blogging-Software/blob/main/1-giphy-removebg-preview.png " style="width: 100px; height: 50px;">
+  <img src="https://github.com/Nupurpusha/Build-Your-Own-Blogging-Software/blob/main/giphy.webp" style="width: 100px; height: 50px;">
 </p>
 
 
