@@ -66,16 +66,31 @@ Ensure you have the following installed:
     bash```
     Activate the virtual environment:
   - **For Windows:**
+  - 
      ```bash
      venv\Scripts\activate
   - **For macOS and Linux:**
+  - 
     ```bash
     source venv/bin/activate
+4. **Install Dependencies**
 
+    ```bash
+    pip install -r requirements.txt
+5. **Set Up the Database**
+   
+   ```bash
+   python manage.py db init
+   python manage.py db migrate
+   python manage.py db upgrade
+6. **Run the Application**
 
+   ```bash
+   python manage.py runserver
+   bash```
+Open your web browser and navigate to http://localhost:5000 to view your blogging platform.
+     
 
-    
-4. **
 
 
 
