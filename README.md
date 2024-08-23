@@ -2,9 +2,9 @@
   <img src="https://github.com/Nupurpusha/Build-Your-Own-wc-Tool/blob/main/Untitled%20design%20(1).gif " alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️" style="width: 1000px; height: 500px;">
 </p>
 
-
-
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lugtu@thapar.edu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lugtiet/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/lugtiet/mycompany/)
 
 ---
 
@@ -12,7 +12,7 @@
 ![Blogging Software Demo](https://link-to-your-gif.com/demo.gif)
 **Build Your Own Blogging Software** is a hands-on coding challenge designed to guide you through the process of building a simple yet functional blogging platform from scratch. The project will help you learn the essentials of web development by creating a blog where you can write, edit, and manage posts, and where readers can engage with your content through comments.
 
-### Why Build a Blog?
+### Why Build a Blog?    
 
 Blogs have been a cornerstone of the internet since the early 2000s, transforming static web pages into dynamic platforms for sharing ideas, tutorials, and personal stories. By building your own blogging software, you will:
 
