@@ -54,7 +54,7 @@ Ensure you have the following installed:
    Open your terminal and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-blog-repo.git
+   git clone https://github.com/Nupurpusha/Build Your Own Blogging Platform
 
 
 
