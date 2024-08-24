@@ -63,7 +63,7 @@ Ensure you have the following installed:
 
     ```bash
     cd Build-Your-Own-Blogging-Software
-3. **Create a Virtual Environment**(Optional but recommended)
+3. **Create a Virtual Environment** (Optional but recommended)
 
     ```bash
     python -m venv venv
