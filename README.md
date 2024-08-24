@@ -122,7 +122,7 @@ We welcome contributions! Please [open an issue](https://github.com/Nupurpusha/B
 ## 📜License
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/Nupurpusha/Build-Your-Own-Blogging-Software/issues/blob/main/LICENSE) file for more details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/Nupurpusha/Build-Your-Own-Blogging-Software/blob/main/LICENSE.txt) file for more details.
 
 
 ---
