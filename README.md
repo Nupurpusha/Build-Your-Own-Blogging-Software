@@ -101,7 +101,6 @@ Open your web browser and navigate to http://localhost:5000 to view your bloggin
   <!-- Python Badge -->
   <img src="https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 20px;" width="200" height="50">
 
-  
   <!-- Flask Badge -->
   <img src="https://img.shields.io/badge/Flask-1.1.2-black?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="margin: 20px;" width="200" height="50">
   
