@@ -98,37 +98,24 @@ Open your web browser and navigate to http://localhost:5000 to view your bloggin
 ## 👨‍💻Technologies Used
 
 <p align="center">
-  <!-- Python Badge -->
   <a href="https://www.python.org/downloads/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 20px;" width="150" height="40">
   </a>
-
-  <!-- Flask Badge -->
   <a href="https://flask.palletsprojects.com/en/latest/installation/" target="_blank">
     <img src="https://img.shields.io/badge/Flask-1.1.2-black?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="margin: 20px;" width="150" height="40">
   </a>
-
-  <!-- Django Badge -->
   <a href="https://www.djangoproject.com/download/" target="_blank">
     <img src="https://img.shields.io/badge/Django-3.0-green?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="margin: 20px;" width="150" height="40">
   </a>
-
-  <!-- HTML5 Badge -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin: 20px;" width="100" height="40">
   </a>
-
-  <!-- CSS3 Badge -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 20px;" width="100" height="40">
   </a>
-
-  <!-- JavaScript Badge -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" style="margin: 20px;" width="200" height="40">
   </a>
-
-  <!-- SQL Badge -->
   <a href="https://www.sqlite.org/download.html" target="_blank">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" style="margin: 20px;" width="100" height="40">
   </a>
